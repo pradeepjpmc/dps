@@ -1,0 +1,4 @@
+server:
+  port: 2022
+
+greeting: Welcome to all by Pradeep Gupta
